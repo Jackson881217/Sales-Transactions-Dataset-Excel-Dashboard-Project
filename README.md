@@ -53,6 +53,8 @@ Pie chart summarizing which categories incur the most spending.
 ## 🖼️ Dashboard Preview
 
 ![Excel Dashboard](dashboard-preview.png)
+![image](https://github.com/user-attachments/assets/6e7ea40c-635c-408f-89c6-ae849fd996d8)
+
 
 > (Tip: Rename your exported dashboard image as `dashboard-preview.png` and place it in the repo to display properly.)
 
